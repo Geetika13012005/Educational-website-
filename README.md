@@ -1,22 +1,25 @@
-# 🎓 EduSphere – Empowering Education Digitally
+# 🎓 Aldenare University – A Digital Gateway to Learning
 
-EduSphere is a modern, multi-page educational website designed to enhance the learning experience for students. With intuitive navigation, user authentication, course enrollment, and advanced location mapping features, this platform bridges the gap between students and quality education.
+Welcome to the official repository of **Aldenare University**, a modern and fully responsive educational website designed to provide students with an intuitive, engaging, and feature-rich digital campus experience. This multi-page website includes everything from course discovery to user authentication and institutional contact access.
 
-## 🚀 Features
+---
 
-- 🌐 **Multi-Page Layout** – Clean and responsive interface with pages like Home, About, Courses, Contact, and more.
-- 🔐 **Login/Sign-Up System** – Secure authentication for students to create and manage their accounts.
-- 📚 **Course Enrollment** – Students can explore various courses and enroll directly through the platform.
-- 🗺️ **Interactive Map Integration** – Advanced location-based feature to display nearby learning centers or events.
-- 📱 **Responsive Design** – Optimized for desktops, tablets, and mobile devices.
-- 💬 **Contact Form** – Get in touch with the institution or support team easily.
+## 🌟 Key Features
+
+- 🏠 **Home Page** – Showcases the university’s mission, featured courses, news, and announcements.
+- 📖 **About Page** – Highlights the history, vision, and academic excellence of Aldenare University.
+- 📞 **Contact Page** – Enables students and visitors to get in touch with the university administration.
+- 🔐 **Login / Sign-Up Pages** – Secure login and registration functionality for students.
+- 🎯 **Student Dashboard** (optional future enhancement) – View and manage enrolled courses, schedules, and academic progress.
+- 🌐 **Fully Responsive** – Optimized design across desktop, tablet, and mobile devices.
+
+---
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: HTML5, CSS3, JavaScript (Vanilla)
-- **Backend (Optional for dynamic version)**: Node.js / PHP / Python Flask
-- **Database**: MySQL / Firebase (if applicable)
-- **APIs**: Google Maps API (for advanced location features)
+- **Frontend**: HTML5, CSS3, JavaScript
+- **Database**:  MySQL 
+
 
 
 
