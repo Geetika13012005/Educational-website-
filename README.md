@@ -14,6 +14,7 @@ Welcome to the official repository of **Aldenare University**, a modern and full
 
 ## 🛠️ Tech Stack
 
+
 - **Frontend**: HTML5, CSS3, JavaScript
 - **Database**:  MySQL 
 
