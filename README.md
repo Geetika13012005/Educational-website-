@@ -1,5 +1,6 @@
 
 
+
 # 🎓 Aldenare University – A Digital Gateway to Learning
 
 Welcome to the official repository of **Aldenare University**, a modern and fully responsive educational website designed to provide students with an intuitive, engaging, and feature-rich digital campus experience. This multi-page website includes everything from course discovery to user authentication and institutional contact access.
